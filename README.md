@@ -13,16 +13,19 @@ Not affiliated with or endorsed by FNB.
 ## Install
 
 ```bash
-npm install fnb-statement-extractor
+npm install github:sellomkantjwa/fnb-statement-extractor
 ```
 
-Requires Node.js 22 or later.
+Requires Node.js 22 or later. The package isn't on the npm registry yet; npm installs it from this repository,
+and your `package-lock.json` pins the commit.
 
 ## Command line
 
 ```bash
-npx fnb-extract statement.pdf
+npx github:sellomkantjwa/fnb-statement-extractor statement.pdf
 ```
+
+Once installed in a project, `npx fnb-extract statement.pdf` does the same.
 
 Prints the statement as JSON. Exits with status 1 and a message on stderr if the PDF isn't a recognised FNB
 statement or its transactions don't reconcile.
@@ -90,6 +93,9 @@ A current account statement (figures made up):
 ## Development
 
 ```bash
+git clone https://github.com/sellomkantjwa/fnb-statement-extractor.git
+cd fnb-statement-extractor
+npm install
 npm test
 ```
 
