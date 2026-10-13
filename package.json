@@ -1,6 +1,7 @@
 {
   "name": "fnb-statement-extractor",
   "version": "0.1.0",
+  "author": "Sello Mkantjwa",
   "description": "Extract and reconcile transactions from FNB (South Africa) bank and credit card statement PDFs",
   "keywords": [
     "fnb",
