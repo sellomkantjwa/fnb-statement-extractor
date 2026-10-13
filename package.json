@@ -1,0 +1,37 @@
+{
+  "name": "fnb-statement-extractor",
+  "version": "0.1.0",
+  "description": "Extract and reconcile transactions from FNB (South Africa) bank and credit card statement PDFs",
+  "keywords": [
+    "fnb",
+    "bank statement",
+    "pdf",
+    "south africa",
+    "transactions",
+    "ocr"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "bin": {
+    "fnb-extract": "bin/fnb-extract.js"
+  },
+  "files": [
+    "index.js",
+    "bin/",
+    "lib/"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "dependencies": {
+    "@tesseract.js-data/eng": "^1.0.0",
+    "pdf.js-extract": "^0.2.1",
+    "tesseract.js": "^7.0.0"
+  },
+  "devDependencies": {
+    "pdf-lib": "^1.17.1"
+  }
+}

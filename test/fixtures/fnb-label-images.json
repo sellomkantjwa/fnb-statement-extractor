@@ -1,0 +1,17 @@
+{
+  "#Monthly Account Fee": {
+    "width": 273,
+    "height": 25,
+    "bits": "+efH/x/////+/P/5/////H/////////////7//AAP//////558P+H/////z8//n////8f/////////////P/8AA///////HPw/4f/////Pz/+f////k/////////////8//z////////88/D/h/////8/P/5////+T/////////////z//P////////zz8n8n/////z8//n////xH/////////////P/8/////////PPyfyf4P5g8BzB+c/z//Of/B/wf8H8/nmDwH/z//8H/g//AAPJ/J+APgBwHAD5z/P/85/wD8A/AHz+eAHAf/P//AH4A/8AA8z5nx8eHjz8PHnn5//jj+PHjx4+PP54ePP/8//4+PHx/+efzPmfP54/PPx+eefn/+fP5+Ofjn88/nj88//z//n88/n/55/M+Z4/jn88/P554+f/58/P8z/Mfxz+efzz//AA8/5n/P/nn85znn/Ofzz8/nnzz//P58//P/z/nP55/PP/8ADz/mf8/+efznOef85/PPz+efPP/8/nz/8//P+c/nn88//z//AAYAD/55/Oc55/zn88/P55+c//wAfP/z/8/5z+efzz//P/8ABgAP8AA84jnn/Ofzz8/nn5n/+AA8//P/z/nP55/PP/8//z/+f//wADzyeef85/PPz+efmf/5/zz/M/zP+c/nn88//z//P/5///zz/PJ54/jn88/P55/J//H/HP8z/Mfxz+efzz//P/8f/j///PP88nnz+efzz8/nn8P/8/+efnn55/PPx5/PP/8//5/nP8/44/z4+fHx5/PPz+efw//z/548ePHj48eHn88//z//h48PH/nn/Pj5+APn88HP55/j/+f/zwD8A/AH4Cefzwf/P//AH4A/+ef8+Pn+D+fz4c/nn+f/5//Pwf8H/B/wZ5/Ph/8///A/4H//////////////////5//////////////////////////////////////////////P/////////////////////////////////////////////8/////////////////////////////////////////////+H/////////////////////////////////////////////4/////////////////////////////8="
+  },
+  "#Service Fees": {
+    "width": 174,
+    "height": 20,
+    "bits": "+ef4D///////P//////gAH////////nn4AP//////z//////4AB////////xz8fh/////////////+f/////////88+P+f/////////////n//////////PPn/z/////////////5//////////zz5/8/B/IH/M/g/4P/+f//g/8H/B/AAOP//AHwB/zPgH4A//n//gD8AfAHwADx//j48fP5zx48fH/5//x8ePjj4/nn8A/5/PHz+c8/HP5/+f/8/nn85/P55/gB8/5z8fHOf5n/P/gAef8z/mf/+ef/gHP+c/nzzn/5/z/4AHn/M/5h//nn//hwAHP4885/+AA/+f/4ADAAcB/55//+MABz/OfOf/gAP/n/+AAwAHgDwADP/zP/8/znzn/5///5//n/8///A8AAz/8z//P8T85/mf//+f/5//P///Hzz8f/Mf/z/k/Of5j///n/+P/x/+f588/j/nn+c/5Pzz88/z/5//z/Of5j+eOP8fx4ePP/H88ePDx/+f/8PHh48fPnn/gA/AHz/x/PgH4A//n//gD8AfgD55/+A/8D8/+/z+D/gf/5//+B/wP8D8="
+  },
+  "#Service": {
+    "width": 105,
+    "height": 20,
+    "bits": "+ef4D///////P//////55+AD//////8///////HPx+H/////////////88+P+f/////////////zz5/8//////////////PPn/z8H8gf8z+D/g//AAOP//AHwB/zPgH4A/8AA8f/4+PHz+c8ePHx/+efwD/n88fP5zz8c/n/55/gB8/5z8fHOf5n/P/nn/4Bz/nP5885/+f8/+ef/+HAAc/jzzn/4AD/55//+MABz/OfOf/gAP8AAz/8z//P8585/+f//wADP/zP/8/xPzn+Z///zz8f/Mf/z/k/Of5j///PP4/55/nP+T88/PP8/44/x/Hh48/8fzx48PH/nn/gA/AHz/x/PgH4A/+ef/gP/A/P/v8/g/4H/w=="
+  }
+}
